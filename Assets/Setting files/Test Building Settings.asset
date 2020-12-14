@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1111b8ca56fb2045bafc323c98e7f66, type: 3}
+  m_Name: Test Building Settings
+  m_EditorClassIdentifier: 
+  buildingSize: {x: 20, y: 20}
+  minNumberOfRooms: 1
+  maxNumberOfRooms: 7
+  minNumberOfStories: 2
+  maxNumberOfStories: 6
+  minRoomWidth: 3
+  maxRoomWidth: 8
+  minRoomHeight: 3
+  maxRoomHeight: 8
+  windowSeed: 70
+  doorSeed: 5
